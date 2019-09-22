@@ -1,0 +1,21 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "Simple api con Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "agodin3z <agodiin3z at gmail dot com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "nodemon": "^1.19.2",
+    "pm2": "^3.5.1"
+  }
+}
